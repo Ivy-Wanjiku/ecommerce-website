@@ -1,0 +1,47 @@
+
+
+@media screen and (max-width: 600px) {
+    /* CSS rules for screens with a maximum width of 600px */
+    body {
+      background-color: white;
+    }
+ 
+}
+  
+ #nav{
+    display: flex;
+    gap: 50%;
+ }
+ #home{
+    display: flex;
+    gap: 50%
+}
+ #femaleclothes{
+    display: flex;
+
+ }
+ #newarrivals{
+    display: flex;
+    gap: 20%;
+ }
+ .words{
+    padding-left: 6%;
+ }
+ h1{
+    color: rgb(42, 42, 42);
+ }
+ #forhim{
+    display: flex;
+ }
+ .allmale{
+    display: flex;
+   
+ }
+ #malenav{
+   display: flex;
+   gap: 20%;
+ }
+ #footer{
+   display: flex;
+   gap: 10%;
+ }
